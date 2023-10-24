@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Task3
+comment0.text=\r\n\ An\ Administration\ system\ that\ holds\ the\ student's\ full\ name,\r\n\ student\ id,\ and\ five-course\ grades.\r\n\r\n\ @Clarence\ Oriola\r\n\ @v1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

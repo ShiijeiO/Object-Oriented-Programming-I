@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Task1
+comment0.text=\r\n\ Defines\ Two\ methods\ to\ calculate\ the\ average\ on\ an\ integer\ array\ and\ a\ double\ array\r\n\ Also\ includes\ ask\ the\ user\ to\ enter\ 10\ double\ values\ and\ displays\ the\ average\r\n\r\n\ @Clarence\ Oriola\ (N01573843)\r\n\ @v2.0\ (10/11/2023)\ +comments\r\n
+comment1.params=array
+comment1.target=int\ average(int[])
+comment2.params=array
+comment2.target=double\ average(double[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
